@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/deb-sig/double-entry-generator/pkg/cmd"
+import "github.com/Kingyum-Hou/double-entry-generator/pkg/cmd"
 
 func main() {
 	cmd.Execute()
